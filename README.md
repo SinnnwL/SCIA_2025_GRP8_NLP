@@ -23,10 +23,3 @@ Ce guide décrit les notebooks et les modèles inclus dans ce projet de classifi
 - **stats-dataset.ipynb** : Ce notebook offre une analyse statistique du jeu de données.
 
 - **word2vec.wordvectors** : Il s'agit de notre modèle Word2Vec entraîné sur l'ensemble des critiques présentes dans le dataset.
-
-## Notes
-
-- Les bibliothèques utilisées incluent Keras-NLP et transformers pour le fine-tuning et l'inférence de modèles de langage.
-- Les notebooks sont bien commentés pour expliquer chaque étape du processus d'entraînement, de fine-tuning, et d'inférence.
-
-Pour toute question ou clarification, n'hésitez pas à consulter la documentation incluse dans chaque notebook ou à me contacter.
